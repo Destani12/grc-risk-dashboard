@@ -1,5 +1,8 @@
 # GRC Risk Dashboard
 
+## Dashboard Preview
+![GRC Risk Dashboard](screenshots/Dashboard.png)
+
 ## What This Project Is
 This project is a simple Governance, Risk, and Compliance (GRC) dashboard built using Python.
 

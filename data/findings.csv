@@ -1,0 +1,6 @@
+﻿asset_id,finding_description,severity,asset_criticality
+A-001,S3 bucket allows public read access,5,5
+A-002,Missing MFA on admin account,4,4
+A-003,Open port 22 on external firewall,3,4
+A-004,Unpatched CVE on Windows host,4,3
+A-005,Logs not reviewed for over 30 days,2,3

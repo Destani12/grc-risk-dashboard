@@ -1,0 +1,6 @@
+﻿control_id,framework,description,keywords
+AC-3,NIST,Access enforcement on systems,access;authorization;privilege;user;public
+SC-7,NIST,Boundary protection between internal and external networks,firewall;port;network;traffic;ssh
+CM-6,NIST,Configuration settings are established and enforced,configuration;patch;cve;update
+IA-2,NIST,Multi-factor authentication for user access,mfa;authentication;login;password
+AU-6,NIST,Audit review and reporting,log;audit;monitor;review
